@@ -7,5 +7,5 @@ class Usuario:
 
 objetoUsuario = Usuario("Josu", "pass")
 print(objetoUsuario)
-print(objetoUsuario.nobre)
+print(objetoUsuario.nombre)
 print(objetoUsuario.password)
